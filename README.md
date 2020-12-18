@@ -1,1 +1,7 @@
-# beta-openfructos
+# Open FRUCtoS リリースページ
+
+こちらはHL7FHIR APIに準拠したFHIRサーバのオープンソース版を開発しリリースするプロジェクト、   
+**Open FRUCtoS**のベータ版リリースページです。  
+本ベータ版の利用には利用規約への同意と、利用申し込み登録（* 無料）が必要です。  
+以下リンクにアクセス・ご確認いただき、申し込み登録をお願いいたします。  
+https://jami-fhir-jp-wg.github.io/openFHIR2020/
